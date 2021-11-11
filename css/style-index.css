@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:#f8f8f8;
+}
+.form-group input,
+.form-group button{
+    border:0;
+    height:40px;
+}
+.form-index,.form-struk{
+    margin-top:50px;
+    padding: 30px;
+    background: #EE6E73;
+    border-radius: 5px;
+    
+}
+.form-struk{
+    background: white;
+    box-shadow: 0px 0px 20px 0px lightgray;
+}
+.form-index button{
+    background: #26A69A;
+}
+.kolom-info{
+    border: dashed 1px green;
+    border-radius: 5px;
+    padding: 10px;
+}
